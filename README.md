@@ -29,7 +29,7 @@ My name is Azim, and I am a Junior studying Computer Engineering at Northwestern
 -->
 ### Contacts/Socials:
 > ✉️ Email: azimu@u.northwestern.edu • 📞 Phone: +1 845-745-1867  
-> 🅾𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦★: @azimusmanov77 • 💼 LinkedIn: https://www.linkedin.com/in/azimusmanov77/
+> 🅾𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦★: @azimusmanov77 • 💼 LinkedIn: https://www.linkedin.com/in/azimusmanov77/  
 > 🔗 Portfolio Website: https://azimusmanov.com
 
 <!---
