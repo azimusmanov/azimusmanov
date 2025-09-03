@@ -16,7 +16,7 @@ My name is Azim, and I am a Junior studying Computer Engineering at Northwestern
   />
   <img
     width="29%"
-    src="https://streak-stats.demolab.com?user=azimusmanov&theme=tokyonight&border_radius=12"
+    src="https://github-readme-streak-stats.herokuapp.com?user=azimusmanov&theme=tokyonight&border_radius=12"
     alt="Contribution streak"
   />
 </p>
